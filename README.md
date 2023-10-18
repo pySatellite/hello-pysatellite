@@ -27,7 +27,6 @@ $ pdm publish
 
 ### Contributing
 ```bash
-```bash
 $ git branch 0.2.0/very-small-function
 $ git checkkout 0.2.0/very-small-function
 $ git checkout 0.2.0/very-small-function
