@@ -15,7 +15,7 @@ $ git clone ...
 $ cd hello-pysatellite
 $ pdm venv create
 $ source .venv/bin/activate
-$ pdm install
+(hello-pysatellite-3.8) $ pdm install
 ```
 
 ### DEPLOY 
