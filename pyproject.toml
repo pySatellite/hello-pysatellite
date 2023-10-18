@@ -1,6 +1,6 @@
 [project]
 name = "hello-pysatellite"
-version = "0.1.0"
+version = "0.3.0"
 description = "The Python program I'm distributing for the first time"
 authors = [
     {name = "pysatellite", email = "pysatellite@gmail.com"},
