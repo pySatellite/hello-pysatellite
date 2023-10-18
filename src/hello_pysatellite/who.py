@@ -1,2 +1,2 @@
 def my_name():
-    print("my name is TOM")
+    print("my name is TomSawyer")
