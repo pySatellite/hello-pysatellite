@@ -4,3 +4,5 @@ def my_name():
 def who():
     print("who a u?")
 
+def plus(a, b):
+    return a + b
