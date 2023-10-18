@@ -28,10 +28,12 @@ $ pdm publish
 ### Contributing
 ```bash
 $ git branch 0.2.0/very-small-function
-$ git checkkout 0.2.0/very-small-function
+
 $ git checkout 0.2.0/very-small-function
 Switched to branch '0.2.0/very-small-function'
+
 $ vi pyproject.toml
+
 $ git status
 On branch 0.2.0/very-small-function
 Changes not staged for commit:
@@ -40,6 +42,7 @@ Changes not staged for commit:
         modified:   pyproject.toml
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
 $ git add .
 $ git status
 On branch 0.2.0/very-small-function
@@ -71,5 +74,4 @@ remote:
 To github.com:pySatellite/hello-pysatellite.git
  * [new branch]      0.2.0/very-small-function -> 0.2.0/very-small-function
 Branch '0.2.0/very-small-function' set up to track remote branch '0.2.0/very-small-function' from 'origin'.
-```
 ```
