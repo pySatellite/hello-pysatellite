@@ -11,6 +11,9 @@ $ pip install hello-pysatellite
 
 ### DEV
 ```bash
+$ git clone ...
+$ cd hello-pysatellite
+$ pdm venv create
 $ source .venv/bin/activate
 $ pdm install
 ```
