@@ -1,6 +1,8 @@
 # hello-pysatellite
 - The Python program I'm distributing for the first time
 
+![image](https://github.com/pySatellite/hello-pysatellite/assets/87309910/deac5b33-3d3d-45e3-8e50-47f1a881955b)
+
 View at:
 - https://pypi.org/project/hello-pysatellite
 
