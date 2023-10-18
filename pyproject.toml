@@ -1,11 +1,12 @@
 [project]
 name = "hello-pysatellite"
-version = "0.2.0"
+version = "0.3.0"
 description = "The Python program I'm distributing for the first time"
 authors = [
     {name = "pysatellite", email = "pysatellite@gmail.com"},
 ]
-dependencies = []
+dependencies = [
+]
 requires-python = ">=3.8"
 readme = "README.md"
 license = {text = "MIT"}
