@@ -10,8 +10,20 @@ View at:
 ```bash
 $ pip install hello-pysatellite
 ```
-
-### USE
+### USE IMPORT
+```bash
+python
+Python 3.8.18 (default, Oct 17 2023, 20:11:17)
+[GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from hello_pysatellite.who import lotto
+>>> lotto()
+[3, 6, 16, 19, 20, 29]
+>>> lotto()
+[16, 21, 26, 27, 32, 44]
+>>>
+```
+### USE CLI
 ```bash
 $ hello-pysatellite-pic
 
